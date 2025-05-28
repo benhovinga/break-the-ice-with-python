@@ -31,23 +31,23 @@
 
 ## 2. Practice Status
 
-* **[Day 1](Status/Day%201.md "Day 1 Status")**- ***Question 1-3***
+* **[Day 1](Status/Day_1.md "Day 1 Status")**- ***Question 1-3***
 
-* **[Day 2](Status/Day%202.md "Day 2 Status")**- ***Question 4-9***
+* **[Day 2](Status/Day_2.md "Day 2 Status")**- ***Question 4-9***
 
-* **[Day 3](Status/Day%203.md "Day 3 Status")**- ***Question 10-13***
+* **[Day 3](Status/Day_3.md "Day 3 Status")**- ***Question 10-13***
 
-* **[Day 4](Status/Day%204.md "Day 4 Status")**- ***Question 14-15***
+* **[Day 4](Status/Day_4.md "Day 4 Status")**- ***Question 14-15***
 
-* **[Day 5](Status/Day%205.md "Day 5 Status")**- ***Question 16-17***
+* **[Day 5](Status/Day_5.md "Day 5 Status")**- ***Question 16-17***
 
-* **[Day 6](Status/Day%206.md "Day 6 Status")**- ***Question 18-19***
+* **[Day 6](Status/Day_6.md "Day 6 Status")**- ***Question 18-19***
 
-* **[Day 7](Status/Day%207.md "Day 7 Status")**- ***Question 20-21***
+* **[Day 7](Status/Day_7.md "Day 7 Status")**- ***Question 20-21***
 
-* **[Day 8](Status/Day%208.md "Day 8 Status")**- ***Question 22-25***
+* **[Day 8](Status/Day_8.md "Day 8 Status")**- ***Question 22-25***
 
-* **[Day 9](Status/Day%209.md "Day 9 Status")**- ***Question 26-30***
+* **[Day 9](Status/Day_9.md "Day 9 Status")**- ***Question 26-30***
 
 * **[Day 10](Status/Day_10.md "Day 10 Status")**- ***Question 31-37***
 
