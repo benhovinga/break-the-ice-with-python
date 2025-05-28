@@ -1,20 +1,20 @@
-# Question 1
+# Day 1 Exercises
 
-### **Question:**
+## Question 1
 
-> **_Write a program which will find all such numbers which are divisible by 7 but are not a multiple of 5,
-> between 2000 and 3200 (both included).The numbers obtained should be printed in a comma-separated sequence on a single line._**
+Write a program which will find all such numbers which are divisible by 7 but are not a multiple of 5, between 2000 and 3200 (both included). The numbers obtained should be printed in a comma-separated sequence on a single line.
 
----
+<details>
+<summary>Hints</summary>
 
-### Hints:
+- Consider using the range() method.
+</details>
 
-> **_Consider use range(#begin, #end) method._**
+<details>
+<summary>Solutions</summary>
 
----
-
-**Main author's Solution: Python 2**
-
+### Solution 1 (Python 2)
+  
 ```python
 l=[]
 for i in range(2000, 3201):
@@ -24,10 +24,9 @@ for i in range(2000, 3201):
 print ','.join(l)
 ```
 
----
+### Solution 2 (Python 3)
 
-**My Solution: Python 3**
-- **Using for loops**
+- Using for loops
 
 ```python
 for i in range(2000,3201):
@@ -36,13 +35,19 @@ for i in range(2000,3201):
 print("\b")
 ```
 
----
-- **Using generators and list comprehension**
+### Solution 3 (Python 3)
+
+- Using generators and list comprehension
 
 ```python
 print(*(i for i in range(2000, 3201) if i%7 == 0 and i%5 != 0), sep=",")
 ```
-# Question 2
+
+</details>
+
+---
+
+## Question 2
 
 ### **Question:**
 
